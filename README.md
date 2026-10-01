@@ -18,11 +18,15 @@
 | **Finance-Agent** · 개인 | OHLCV만 사용하는 한국 주식 전략 연구 프레임워크. 학습·검증·최종 홀드아웃 분리, 거래비용·미래 데이터 누수 통제 | [Finance-Agent](https://github.com/are012/Finance-Agent) |
 | **Quent** · 개인 | 이동평균 추세추종 전략의 백테스트·리포트·페이퍼 실행 프레임워크. 신호와 체결 시점 분리, 비용·리스크 제한 반영 | [Quent_study](https://github.com/are012/Quent_study) |
 
+### Research
+
+- **Temporal RAG · Agentic AI 확장 연구** — HQA의 AI 멀티 에이전트 개발 경험을 바탕으로, 판단 시점 이전의 근거와 역할별 에이전트를 활용한 산업 테마 후보군 검증 팀 연구에 참여했습니다. 공동저자로 **포스터 작성 및 발표**를 담당했습니다. [연구 브랜치](https://github.com/LeeDohoun/HQA_Project/tree/cde_2026)
+
 ### Publications
 
 - **ArtMISE: Multi-Intent Search and Exploration for Art Collections** — ICTC 2026, 제1저자, 게재 승인
 - **LLM 기반 종목 선정에서 뉴스·공시·투자자 커뮤니티 정보의 증분 가치 비교** — 제7회 한국인공지능학술대회, 제1저자, 논문 게재 · 현장 발표 완료(2026.10.01)
-- **HQA 결과 포스터 발표** — 2026 한국CDE학회 하계학술대회
+- **시점 제한 Temporal RAG와 Agentic AI를 활용한 동적 산업 테마 후보군 검증 프레임워크** — 2026 한국CDE학회 하계학술대회, 공동저자 · 포스터 작성 및 발표 완료(2026.08.20)
 
 ### Tech
 
