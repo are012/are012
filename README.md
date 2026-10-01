@@ -11,7 +11,7 @@
 
 | 프로젝트 | 무엇을 했나 | 링크 |
 |---|---|---|
-| **HQA** · 졸업작품 4인 팀 | 뉴스·공시·가격 근거로 투자 판단을 내리는 멀티 에이전트 서비스. AI 서버와 투자 판단 엔진(FastAPI, BM25+RAG, Risk Manager, Spring 연동) 담당 | [팀 저장소](https://github.com/LeeDohoun/HQA_Project) · [내 PR](https://github.com/LeeDohoun/HQA_Project/pulls?q=is%3Apr+author%3Aare012) |
+| **HQA** · 졸업작품 4인 팀 | LLM·RAG 기반 금융 AI 멀티 에이전트 시스템. Analyst·Quant·Chartist의 역할별 분석과 Risk Manager의 종합 판단 흐름, 근거 검색 및 AI 서버·서비스 연동 개발 담당 (FastAPI, BM25+RAG, Spring) | [팀 저장소](https://github.com/LeeDohoun/HQA_Project) · [내 PR](https://github.com/LeeDohoun/HQA_Project/pulls?q=is%3Apr+author%3Aare012) |
 | **FlowGuard AI** · 개인 저장소, KB AI Challenge 2026 출품 | 불규칙 소득자에게 오늘 쓸 수 있는 돈과 결제 위험을 알려주는 서비스. 금액·위험은 결정론적 엔진이, 분류·설명은 AI가 맡도록 분리. 서비스 구조와 백엔드 담당 | [FlowGuard](https://github.com/are012/FlowGuard) |
 | **ArtMISE** · ETRI 하계 연구연수 | 이미지·문서·SQL 검색을 한 대화에 묶은 미술 소장품 탐색 시스템. MCP 서버와 SQL 도구 개발, 한국어 500문항 벤치마크 구축 | 코드 비공개 (ICTC 2026 논문) |
 | **FinNavi** · 미래에셋 AI 페스티벌 2026, 3인 팀 | 공시 원문을 근거로 답하고 수치·사건 유형을 검증하는 공시 분석 에이전트. 데이터 구축, 검색·에이전트 구현, 평가, Ncloud 배포 담당 | [프로젝트 소개](https://github.com/are012/FinNavi) (팀 저장소 비공개) |
